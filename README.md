@@ -8,5 +8,5 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Seção 1: Unix, Shell & Git
 
-- [ ] 1-3: _Git & Github_
+- [ ] 1-3: _Git & Github_ :hourglass_flowing_sand:
 - ...
