@@ -1,0 +1,17 @@
+h1, p {
+    text-align: center;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+li:hover {
+    background-color: black;
+    color: white;
+    transition: .3s;
+}
+
+li:active {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
