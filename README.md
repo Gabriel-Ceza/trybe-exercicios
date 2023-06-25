@@ -14,8 +14,8 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 ### Seção 2: Introdução à HTML & CSS
 
-- [ ] 2-1: HTML & CSS - Estruturas de página :hourglass:
-- [ ] 2-2: HTML & CSS - Primeiros passos em CSS
+- [ :heavy_check_mark: ] 2-1: HTML & CSS - Estruturas de página 
+- [ ] 2-2: HTML & CSS - Primeiros passos em CSS :hourglass:
 - [ ] 2-3: HTML & CSS - Seletores e posicionamento 
 - [ ] 2-4: HTML Semântico
      
