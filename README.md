@@ -10,13 +10,13 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [:heavy_check_mark:] 1-1: Unix & Shell 
 - [:heavy_check_mark:] 1-2: Git 
-- [:heavy_check_mark:] 1-3: _Git & Github_  
+- [:heavy_check_mark:] 1-3: _Git & Github_ 
 
 ### Seção 2: Introdução à HTML & CSS
 
 - [:heavy_check_mark:] 2-1: HTML & CSS - Estruturas de página 
-- [:heavy_check_mark:] 2-2: HTML & CSS - Primeiros passos em CSS :hourglass:
-- [:heavy_check_mark:] 2-3: HTML & CSS - Seletores e posicionamento 
+- [:heavy_check_mark:] 2-2: HTML & CSS - Primeiros passos em CSS
+- [:heavy_check_mark:] 2-3: HTML & CSS - Seletores e posicionamento
 - [:heavy_check_mark:] 2-4: HTML Semântico
 
 ### Seção 3: Introdução à JavaScript
