@@ -18,4 +18,13 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ :heavy_check_mark: ] 2-2: HTML & CSS - Primeiros passos em CSS :hourglass:
 - [:heavy_check_mark: ] 2-3: HTML & CSS - Seletores e posicionamento 
 - [:heavy_check_mark: ] 2-4: HTML Semântico
+
+- ### Seção 3: Introdução à JavaScript
+
+- [ :heavy_check_mark: ] 3-1: Primeiros passos no JavaScript
+- [ :heavy_check_mark: ] 3-2: Array e estrutura de repetição :hourglass:
+- [:heavy_check_mark: ] 3-3: Funções
+- [:heavy_check_mark: ] 3-4: Objetos
+- [:heavy_check_mark: ] 3-5: JSON e dia de prática
+
      
