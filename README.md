@@ -17,5 +17,5 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [ :heavy_check_mark: ] 2-1: HTML & CSS - Estruturas de página 
 - [ :heavy_check_mark: ] 2-2: HTML & CSS - Primeiros passos em CSS :hourglass:
 - [:heavy_check_mark: ] 2-3: HTML & CSS - Seletores e posicionamento 
-- [ :heavy_check_mark: ] 2-4: HTML Semântico
+- [:heavy_check_mark: ] 2-4: HTML Semântico
      
