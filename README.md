@@ -21,7 +21,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - ### Seção 3: Introdução à JavaScript
 
-- [:heavy_check_mark:] 3-1: Primeiros passos no JavaScript
+- [:heavy_check_mark:]  3-1: Primeiros passos no JavaScript
 - [ ] 3-2: Array e estrutura de repetição :hourglass:
 - [ ] 3-3: Funções
 - [ ] 3-4: Objetos
