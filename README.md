@@ -23,7 +23,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 - [:heavy_check_mark:]  3-1: Primeiros passos no JavaScript
 - [:heavy_check_mark:] 3-2: Array e estrutura de repetição 
-- [ ] 3-3: Funções
+- [:heavy_check_mark:] 3-3: Funções
 - [ ] 3-4: Objetos
 - [ ] 3-5: JSON e dia de prática
 
