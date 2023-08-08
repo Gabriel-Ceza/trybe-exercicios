@@ -26,6 +26,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 - [:heavy_check_mark:] 3-3: Funções
 - [:heavy_check_mark:] 3-4: Objetos
 - [:heavy_check_mark:] 3-5: JSON e dia de prática
-
+- 
 ### Seção 4: JavaScript: DOM, Eventos e Web Storage
+
 - [:heavy_check_mark:] 4-4: JavaScript - Web Storage    
